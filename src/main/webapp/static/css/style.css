@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+*{
+	padding:0;
+	margin:0;
+	border:0;
+}
+body{
+	background-color: #4a7db5;
+	text-align: center;
+	margin: 15px;
+	color: #192537;
+}
+
+div{
+	
+	margin: 40px;
+}
+
+img {
+	height: 100px;
+	margin: 5px;
+	padding: 5px;
+}
+
+a{
+	color: #B09E80;
+}
